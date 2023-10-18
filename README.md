@@ -10,5 +10,6 @@ The code relies heavily on the order of the data read from a 3D lidar to quickly
 The code consists of a novel ground removal algortihm described in the paper.
 A novel clustering method dubbed *String Clustering* and classification methods to distinguish between blue/yellow and big/small cones.
 
-##
-
+[![Example]          // Title
+(https://i.ytimg.com/vi/ruPoroedVaw/maxresdefault.jpg)] // Thumbnail
+(https://www.youtube.com/watch?v=ruPoroedVaw)    // Video Li
